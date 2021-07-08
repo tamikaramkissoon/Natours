@@ -1,52 +1,32 @@
 @keyframes moveInLeft {
     0% {
         opacity: 0;
-        transform: translate(-10rem);
-        -webkit-transform: translate(-10rem);
-        -moz-transform: translate(-10rem);
-        -ms-transform: translate(-10rem);
-        -o-transform: translate(-10rem);
-}
+        transform: translateX(-10rem);
+    }
+
     80% {
-        transform: translate(1rem);
-        -webkit-transform: translate(1rem);
-        -moz-transform: translate(1rem);
-        -ms-transform: translate(1rem);
-        -o-transform: translate(1rem);
-}
+        transform: translateX(1rem);
+    }
+
     100% {
         opacity: 1;
         transform: translate(0);
-        -webkit-transform: translate(0);
-        -moz-transform: translate(0);
-        -ms-transform: translate(0);
-        -o-transform: translate(0);
     }
 }
 
 @keyframes moveInRight {
     0% {
         opacity: 0;
-        transform: translate(10rem);
-        -webkit-transform: translate(10rem);
-        -moz-transform: translate(10rem);
-        -ms-transform: translate(10rem);
-        -o-transform: translate(10rem);
-}
+        transform: translateX(10rem);
+    }
+
     80% {
-        transform: translate(-1rem);
-        -webkit-transform: translate(-1rem);
-        -moz-transform: translate(-1rem);
-        -ms-transform: translate(-1rem);
-        -o-transform: translate(-1rem);
-}
+        transform: translateX(-1rem);
+    }
+
     100% {
         opacity: 1;
         transform: translate(0);
-        -webkit-transform: translate(0);
-        -moz-transform: translate(0);
-        -ms-transform: translate(0);
-        -o-transform: translate(0);
     }
 }
 
@@ -54,18 +34,10 @@
     0% {
         opacity: 0;
         transform: translateY(3rem);
-        -webkit-transform: translateY(3rem);
-        -moz-transform: translateY(3rem);
-        -ms-transform: translateY(3rem);
-        -o-transform: translateY(3rem);
-}
-  
+    }
+
     100% {
         opacity: 1;
         transform: translate(0);
-        -webkit-transform: translate(0);
-        -moz-transform: translate(0);
-        -ms-transform: translate(0);
-        -o-transform: translate(0);
     }
 }
