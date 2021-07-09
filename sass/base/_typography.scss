@@ -35,9 +35,9 @@ body {
     
     &--sub {
         display: block;
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 700;
-        letter-spacing: 1.75rem;
+        letter-spacing: 1.5rem;
         animation: moveInRight 1s ease-out;
 
         @include respond(phone) {
