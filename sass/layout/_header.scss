@@ -24,6 +24,7 @@
             rgba($color-primary-light, 0.8),
             rgba($color-primary-dark, 0.8)),
         url(../img/hero.jpg);
+        
     }
 
     @include respond(phone) {
@@ -48,4 +49,5 @@
         transform: translate(-50%, -50%);
         text-align: center;
     }
+    
 }
