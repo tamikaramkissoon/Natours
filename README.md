@@ -13,7 +13,7 @@
 ---
 
 ## Overview
-Natours is a fictional adventerous tour guide service that allow customers to view and purchase tours via the Natours website.
+Natours is a fictional adventurous tour guide service that allow customers to view and purchase tours via the Natours website.
 
  Link to Natours website:  https://natours-tamika-ramkissoon.netlify.app/
 
