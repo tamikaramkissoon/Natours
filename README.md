@@ -46,7 +46,7 @@ The Natours website contains the following six sections:
 ---
 
 ## Project
-![Screenshot (749)](https://user-images.githubusercontent.com/77646306/129294634-f423ee9a-7d20-487c-a91e-24cf1325a34e.png)
+![Screenshot (765)](https://user-images.githubusercontent.com/77646306/130152266-21da9a5d-de61-4b52-b999-677b798342c8.png)
 
 ---
 
