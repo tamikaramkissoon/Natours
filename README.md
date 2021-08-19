@@ -15,7 +15,7 @@
 ## Overview
 Natours is a fictional adventurous tour guide service that allow customers to view and purchase tours via the Natours website.
 
- Link to Natours website:  https://natours-tamika-ramkissoon.netlify.app/
+ Link to Natours website:  https://natours-tamika-ramkissoon.netlify.app/ 
 
 * The website is fully responsive to all devices
 * Search engine optimization
